@@ -1,8 +1,3 @@
-### Hi there 👋
-
-I'm a Software Developer. This profile its just to have a github page with my pure full name and redirect to my original profile, which is complete. Go there pls :)
-https://github.com/joasegovia9427
-
 <a href="#" style="cursor: pointer"><img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/helloWorld.png" width="100%" > 
 
 <img src="https://raw.githubusercontent.com/joasegovia9427/joasegovia9427/main/Images/hand30.gif" width="30px"></a> Hola, mi nombre es Joaquin Segovia!
@@ -44,3 +39,8 @@ Here are some ideas to get my started or complete even more this file:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  ### Hi there 👋
+
+I'm a Software Developer. This profile its just to have a github page with my pure full name and redirect to my original profile, which is complete. Go there pls :)
+https://github.com/joasegovia9427
